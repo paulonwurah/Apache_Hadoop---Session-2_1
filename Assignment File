@@ -1,0 +1,23 @@
+# Apache_Hadoop---Session-2_1
+
+Hadoop Framework Description Assignment
+
+1.Concepts used in Hadoop is Map and Reduce(B)
+
+2.Hadoop divides data into Blocks (A)
+
+3.Each node results are stored in HDFS (A)
+
+4.Which of these can be related to HADOOP 1.X?  Job tracker, Task Tracker, Namenode & Datanode (A)
+
+5.Who are the job trackers in Hadoop? Masters (B)
+
+6.Which node stores the metadata? NameNode(A)
+
+7.Which is not a valid Daemon in Hadoop? Checkpoint Node(B)
+
+8.By default, memory size of Data nodes is limited to? 64MB(B)
+
+9.Slave layer in Hadoop Architecture contains Data nodes & Node manager  (B)
+
+10.Data is replicated among Data nodes (B)
